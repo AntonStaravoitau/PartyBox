@@ -1,0 +1,6 @@
+<ifmodule mod_expires.c>
+<filesmatch "\.(jpg|gif|png|css|js|woff)$">
+ExpiresActive on
+ExpiresDefault "access plus 1 year"
+</filesmatch>
+</ifmodule>

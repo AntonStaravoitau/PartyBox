@@ -1,0 +1,22 @@
+[09-Feb-2016 22:28:17 Europe/Minsk] PHP Parse error:  syntax error, unexpected '$plan' (T_VARIABLE) in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 14
+[09-Feb-2016 22:31:37 Europe/Minsk] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 14
+[26-Feb-2016 04:32:25 Europe/Minsk] PHP Notice:  Undefined index: name in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 8
+[26-Feb-2016 04:32:25 Europe/Minsk] PHP Notice:  Undefined index: email in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 9
+[26-Feb-2016 04:32:25 Europe/Minsk] PHP Notice:  Undefined index: content in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 10
+[26-Feb-2016 04:32:25 Europe/Minsk] PHP Notice:  Undefined index: plan in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 11
+[26-Feb-2016 04:32:38 Europe/Minsk] PHP Notice:  Undefined index: name in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 8
+[26-Feb-2016 04:32:38 Europe/Minsk] PHP Notice:  Undefined index: email in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 9
+[26-Feb-2016 04:32:38 Europe/Minsk] PHP Notice:  Undefined index: content in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 10
+[26-Feb-2016 04:32:38 Europe/Minsk] PHP Notice:  Undefined index: plan in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 11
+[04-Mar-2016 17:06:04 Europe/Minsk] PHP Notice:  Undefined index: name in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 8
+[04-Mar-2016 17:06:04 Europe/Minsk] PHP Notice:  Undefined index: email in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 9
+[04-Mar-2016 17:06:04 Europe/Minsk] PHP Notice:  Undefined index: content in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 10
+[04-Mar-2016 17:06:04 Europe/Minsk] PHP Notice:  Undefined index: plan in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 11
+[20-Jul-2016 10:39:11 Europe/Minsk] PHP Notice:  Undefined index: name in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 8
+[20-Jul-2016 10:39:11 Europe/Minsk] PHP Notice:  Undefined index: email in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 9
+[20-Jul-2016 10:39:11 Europe/Minsk] PHP Notice:  Undefined index: content in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 10
+[20-Jul-2016 10:39:11 Europe/Minsk] PHP Notice:  Undefined index: plan in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 11
+[29-Aug-2016 10:38:25 Europe/Minsk] PHP Notice:  Undefined index: name in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 8
+[29-Aug-2016 10:38:25 Europe/Minsk] PHP Notice:  Undefined index: email in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 9
+[29-Aug-2016 10:38:25 Europe/Minsk] PHP Notice:  Undefined index: content in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 10
+[29-Aug-2016 10:38:25 Europe/Minsk] PHP Notice:  Undefined index: plan in /home/siteupby/partybox.by/photobooth/admin-ajax.php on line 11
